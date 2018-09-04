@@ -1,13 +1,13 @@
+body {
+  font-family: "Arial", Helvetica, sans-serif;
+}
+
 header {
   position: absolute;
   right: 0;
   height: inherit;
   min-width: 300px;
   font-size: 13px;
-}
-
-body {
-  font-family: "Arial", Helvetica, sans-serif;
 }
 
 header a {
@@ -17,6 +17,7 @@ header a {
 a.icons {
   vertical-align: -webkit-baseline-middle;
 }
+
 
 .search input{
   text-align: left;
